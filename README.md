@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jemima Chukwu 
+- 👋 Hi, I’m Jemima A. Chukwu Shaibu
 - 👀 I’m interested in reproductive anatomy, early preganancy, infertility, human evolution, sperm health and developmental anatomy
 - 🌱 I’m currently learning python, scRNA sequencing, phylogeny and evolutionary analysis.
 - 💞️ I’m looking to collaborate in any of my areas of interest
